@@ -129,8 +129,8 @@
                                 <div class="job-listing-location mb-3 mb-sm-0 custom-width w-25">
                                     <span class="fa fa-map-marker-alt">Jakarta</span>
                                 </div>
-                                <div class="job-listing-meta">
-                                    <span class="badge badge-warning">apply</span>
+                                <div class="job-listing-meta d-grid gap-2 d-md-flex justify-content-md-end">
+                                    <button type="button" class="btn btn-success">Apply</button>
                                 </div>
                             </div>
                         </li>

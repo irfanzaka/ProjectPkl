@@ -1,9 +1,9 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
         <div class="logoNavbar">
-            <a href="index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
+            <a href="indexSena" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
                 <img src="sena/img/sena.png" alt="" class="logo">
-                <h2 class="m-0 text-primary">PT SOLUSI ENERGY NUSANTARA</h2>
+                <h2 class="m-0" style="color: #e2802f;">PT SOLUSI ENERGY NUSANTARA</h2>
             </a>
         </div>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -27,7 +27,7 @@
                 </div>-->
                 <a href="#last" class="nav-item nav-link">Contact</a>
             </div>
-            <a href="loginSena" class="btn btn-primary ms-auto py-4 px-lg-5 d-none d-lg-block">Sign in / Sign up<i class="fa fa-arrow-right ms-3"></i></a>
+            <a href="loginSenaNew" class="nav-item nav-link btn btn-primary ms-auto py-4 px-lg-5 d-lg-block" style="margin-left: 492px; background-color: #e2802f;">Sign in / Sign up<i class="fa fa-arrow-right ms-3"></i></a>
         </div>
     </nav>
     <!-- Navbar End -->
